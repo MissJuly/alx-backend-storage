@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Module that lists all documents in a collection
+Module with function that lists all
+documents in a collection
 """
 
 
